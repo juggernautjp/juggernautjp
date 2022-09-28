@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juggernautjp
 - 👀 I’m interested in Rust.
-- 🌱 I’m currently learning JavaScript, TypeScript, GoLang, Git (GitHub).
+- 🌱 I’m currently learning JavaScript, TypeScript, Hugo, GoLang, Git (GitHub).
 - 💞️ I’m looking to collaborate on translation of Hugo Documentation.
 - 📫 How to reach me...
 
