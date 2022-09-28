@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juggernautjp
-- 👀 I’m interested in Crowdin, Visual Studio Code, AppVeyor, Docker.
-- 🌱 I’m currently learning Atom, JavaScript, CoffeeScript, Git (GitHub), SourceTree.
-- 💞️ I’m looking to collaborate on atom-i18n of Atom package.
+- 👀 I’m interested in Rust.
+- 🌱 I’m currently learning JavaScript, TypeScript, GoLang, Git (GitHub).
+- 💞️ I’m looking to collaborate on translation of Hugo Documentation.
 - 📫 How to reach me...
 
 <!---
